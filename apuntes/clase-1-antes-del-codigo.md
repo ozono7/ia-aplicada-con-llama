@@ -31,6 +31,8 @@ aprender, a organizarse y a usar bien las herramientas digitales.
 - Presenta el recorrido de las lecturas siguientes: herramienta de aprendizaje,
   Notion, mapas mentales, gestión del tiempo, IA, sistemas operativos y teclado.
 
+[Yo lo usaría como punto de partida para aplicar lo del curso a mi trabajo con microalgas, empezando por ordenar los artículos y los datos del laboratorio.]
+
 ## 2. Crear Tu Propia Herramienta de Aprendizaje Digital
 
 La idea central: cada estudiante arma su propio sistema para aprender — un
@@ -44,6 +46,8 @@ solo de la memoria o de materiales sueltos.
 - En este curso, esa herramienta se concreta en Notion (lectura 3) y en el
   repositorio de apuntes y entregas.
 
+[Mi herramienta sería este repositorio y Notion: ahí van los apuntes del curso, los artículos y los pendientes del laboratorio, todo en un solo lugar.]
+
 ## 3. Introducción a Notion
 
 Notion es la herramienta propuesta para organizar el aprendizaje: páginas,
@@ -54,6 +58,8 @@ bases de datos, plantillas y enlaces en un solo espacio de trabajo.
   (pendiente, en curso, terminado).
 - Sirve para guardar los apuntes del curso y para preparar las entregas:
   lo que se escribe en Notion se puede enlazar o exportar como evidencia.
+
+[Yo lo usaría para llevar los artículos en curso, el de RNA-seq, el genoma de Edith y el de metagenómica de Abner, más el de Opuntia de Ana Pau, con sus datos, figuras y pendientes.]
 
 ## 4. Mapas mentales
 
@@ -68,6 +74,8 @@ recordar mejor.
 - Es el formato que pide el proyecto de esta clase: un recurso visual (mapa
   mental, dibujos, colores) sobre lo aprendido.
 
+[Yo los usaría para mapear las rutas metabólicas de Chlorella y Scenedesmus, biotina, riboflavina y sideróforos, y para ordenar la historia del artículo de RNA-seq.]
+
 ## 5. Gestión del Tiempo
 
 Estudiar un curso con clases semanales y entregas exige planear el tiempo:
@@ -81,6 +89,8 @@ repasar y entregar a tiempo.
 - Registrar avances: anotar qué quedó hecho y qué falta evita volver a
   empezar desde cero.
 
+[Yo lo usaría para repartir la semana entre el laboratorio, las clases en Bosquet y la prepa, y las clases de Llama de los viernes.]
+
 ## 6. Herramientas de Inteligencia Artificial
 
 Panorama de las herramientas de IA que apoyan el aprendizaje y el trabajo:
@@ -93,6 +103,8 @@ información, generación de código y organización de ideas.
   local (Ollama en Colab) a partir del Módulo 1.
 - Regla de trabajo: las llaves de API nunca se escriben en el código ni se
   suben al repositorio; van en Colab Secrets.
+
+[Yo las usaría para revisar literatura de microalgas, resumir artículos y buscar referencias para los manuscritos, y después para armar el RAG sobre mis propios artículos.]
 
 ## 7. Introducción a los Sistemas Operativos
 
@@ -108,6 +120,8 @@ pantalla, disco, red) con quien lo usa.
 - Windows, macOS y Linux hacen lo mismo con nombres distintos; lo esencial
   es la organización, no el sistema concreto.
 
+[Yo lo usaría para ordenar en la Mac los archivos del laboratorio, del curso y de los artículos, y no perder nada entre Drive, Colab y GitHub.]
+
 ## 8. Conociendo Mi Teclado y Atajos: Uso Efectivo y Ergónomo
 
 Conocer el teclado y sus atajos ahorra tiempo y reduce el esfuerzo repetido:
@@ -120,6 +134,8 @@ moverse dentro del editor o del navegador.
   combinaciones incómodas.
 - En Colab y en el editor, los atajos de ejecución de celdas y de navegación
   son los que más se usan en las prácticas del curso.
+
+[Yo los usaría para escribir los artículos y programar en R sin perder tiempo ni forzar las manos.]
 
 ## Proyecto de la clase: Pon en práctica lo aprendido
 
