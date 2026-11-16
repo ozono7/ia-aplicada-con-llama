@@ -72,6 +72,9 @@ La versión visual está en [apuntes/mapa-mental-clase-1.html](apuntes/mapa-ment
 
 ## Cómo correr un notebook
 
+GitHub solo muestra los notebooks, no los ejecuta: para correr uno, abre el
+enlace **Abrir en Colab** que está junto a cada notebook en su carpeta.
+
 1. Abrir el archivo `.ipynb` en Google Colab (Archivo → Abrir cuaderno → subir o abrir desde Drive).
 2. Activar la GPU gratuita: Entorno de ejecución → Cambiar tipo de entorno de ejecución → **T4 GPU**. Verificar con `!nvidia-smi`.
 3. Guardar las credenciales en **Colab Secrets** (icono de la llave, en el panel izquierdo):

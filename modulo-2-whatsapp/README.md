@@ -20,8 +20,8 @@ NGROK_AUTHTOKEN, VERIFY_TOKEN) se guardan en Colab Secrets.
 
 ## Material
 
-- `02_Hands_On_Diseño_de_Agentes_Conversacionales_v1.ipynb` (Sesión 09).
-- `Hands_On_Integración_entre_Llama_y_WhatsApp_(Solución)_COMENTADO.ipynb` — versión con function calling.
+- `02_Hands_On_Diseño_de_Agentes_Conversacionales_v1.ipynb` (Sesión 09). · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/modulo-2-whatsapp/02_Hands_On_Dise%C3%B1o_de_Agentes_Conversacionales_v1.ipynb)
+- `Hands_On_Integración_entre_Llama_y_WhatsApp_(Solución)_COMENTADO.ipynb` — versión con function calling. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/modulo-2-whatsapp/Hands_On_Integraci%C3%B3n_entre_Llama_y_WhatsApp_%28Soluci%C3%B3n%29_COMENTADO.ipynb)
 - Proyecto demostrativo **El Comandero de Chida Café** (Sesión 04, carpeta Sensei en [clase-4/sensei/](../clase-4/sensei/)): mesero de WhatsApp con RAG sobre el menú, clasificador de mensajes con LoRA y app de Gradio.
 
 Las guías paso a paso y el manual de ngrok y Meta están en el material de

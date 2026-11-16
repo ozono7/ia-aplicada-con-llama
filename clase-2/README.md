@@ -14,7 +14,7 @@ documento de políticas como fuente, en vez de inventar la respuesta.
 
 ## Notebooks
 
-- `Modulo1_Clase2_HandsOn_COMENTADO_y_Ejemplo_Challenge_RAG.ipynb` — versión Groq.
-- `Hands_On_2_Prompt_Engineering_y_RAG_Comentado.ipynb` — Sesión 02, versión Gen 2 con Ollama en Colab.
-- `GEN2_2_Ejemplo_challange__Prompt_Engineering_y_Sistemas_RAG.ipynb` — Sesión 02, ejemplo del challenge con Ollama.
-- `Practica 2_ Prompt Engineering y Sistemas RAG.ipynb` — Sesión 02, versión Gen 1 con Groq.
+- `Modulo1_Clase2_HandsOn_COMENTADO_y_Ejemplo_Challenge_RAG.ipynb` — versión Groq. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/clase-2/Modulo1_Clase2_HandsOn_COMENTADO_y_Ejemplo_Challenge_RAG.ipynb)
+- `Hands_On_2_Prompt_Engineering_y_RAG_Comentado.ipynb` — Sesión 02, versión Gen 2 con Ollama en Colab. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/clase-2/Hands_On_2_Prompt_Engineering_y_RAG_Comentado.ipynb)
+- `GEN2_2_Ejemplo_challange__Prompt_Engineering_y_Sistemas_RAG.ipynb` — Sesión 02, ejemplo del challenge con Ollama. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/clase-2/GEN2_2_Ejemplo_challange__Prompt_Engineering_y_Sistemas_RAG.ipynb)
+- `Practica 2_ Prompt Engineering y Sistemas RAG.ipynb` — Sesión 02, versión Gen 1 con Groq. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/clase-2/Practica%202_%20Prompt%20Engineering%20y%20Sistemas%20RAG.ipynb)

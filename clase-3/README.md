@@ -14,9 +14,9 @@ definido y comprobar la diferencia contra la línea base.
 
 ## Notebooks
 
-- `Modulo1_Clase3_HandsOn_COMENTADO_y_Ejemplo_Challenge_LoRA.ipynb` — versión Groq (PEFT/TRL).
-- `GEN_2_Hands_On_Fine_Tuning_con_LoRA.ipynb` — Sesión 03, versión Gen 2 con Ollama.
-- `Practica 3_ Fine-Tuning con LoRA.ipynb` — Sesión 03, versión Gen 1 con Groq.
+- `Modulo1_Clase3_HandsOn_COMENTADO_y_Ejemplo_Challenge_LoRA.ipynb` — versión Groq (PEFT/TRL). · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/clase-3/Modulo1_Clase3_HandsOn_COMENTADO_y_Ejemplo_Challenge_LoRA.ipynb)
+- `GEN_2_Hands_On_Fine_Tuning_con_LoRA.ipynb` — Sesión 03, versión Gen 2 con Ollama. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/clase-3/GEN_2_Hands_On_Fine_Tuning_con_LoRA.ipynb)
+- `Practica 3_ Fine-Tuning con LoRA.ipynb` — Sesión 03, versión Gen 1 con Groq. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/clase-3/Practica%203_%20Fine-Tuning%20con%20LoRA.ipynb)
 
 La guía paso a paso en DOCX para el fine-tuning con LoRA está en el material
 de apoyo (Drive).
