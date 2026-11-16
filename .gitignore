@@ -1,0 +1,31 @@
+# Archivos de entorno y secretos — NUNCA se suben
+.env
+*.env
+.env.*
+!.env.example
+
+# Llaves, tokens y credenciales
+*.pem
+*.key
+*.p12
+*.pfx
+*token*.json
+*credentials*.json
+*secret*.json
+secrets/
+credentials/
+
+# Archivos de Colab / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Modelos descargados (pesan demasiado para el repo)
+*.bin
+*.gguf
+*.safetensors
+models/
