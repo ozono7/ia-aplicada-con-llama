@@ -1,5 +1,7 @@
 # Hackathon 1 — Asistente inteligente con Llama
 
+[Ver esta carpeta en nbviewer](https://nbviewer.org/github/ozono7/ia-aplicada-con-llama/tree/main/hackathon-1)
+
 ## Qué se construye
 
 Un asistente funcional con Llama, eligiendo las técnicas que tengan sentido

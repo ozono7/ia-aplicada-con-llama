@@ -74,6 +74,11 @@ La versión visual está en [apuntes/mapa-mental-clase-1.html](apuntes/mapa-ment
 
 GitHub solo muestra los notebooks, no los ejecuta: para correr uno, abre el
 enlace **Abrir en Colab** que está junto a cada notebook en su carpeta.
+Para solo verlo sin correrlo, abre el enlace **Ver esta carpeta en nbviewer**
+al inicio del README de su carpeta.
+Si un enlace da 404, revisa que la dirección diga `/blob/main/` y que el
+nombre del archivo esté completo: con `master` en vez de `main`, o sin
+`/blob/`, el enlace no abre.
 
 1. Abrir el archivo `.ipynb` en Google Colab (Archivo → Abrir cuaderno → subir o abrir desde Drive).
 2. Activar la GPU gratuita: Entorno de ejecución → Cambiar tipo de entorno de ejecución → **T4 GPU**. Verificar con `!nvidia-smi`.

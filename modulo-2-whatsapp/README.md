@@ -1,5 +1,7 @@
 # Módulo 2 — Agentes conversacionales con Llama y WhatsApp
 
+[Ver esta carpeta en nbviewer](https://nbviewer.org/github/ozono7/ia-aplicada-con-llama/tree/main/modulo-2-whatsapp)
+
 ## Qué se aprende
 
 - **Agente conversacional:** no solo responde una pregunta aislada; recibe mensajes, identifica al usuario, conserva el contexto y decide si responde con el modelo o aplica una regla fija.

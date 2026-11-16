@@ -1,5 +1,7 @@
 # Clase 1 — Fundamentos de LLMs con modelos Llama
 
+[Ver esta carpeta en nbviewer](https://nbviewer.org/github/ozono7/ia-aplicada-con-llama/tree/main/clase-1)
+
 ## Qué se aprende
 
 - **De palabras a tokens:** cómo el modelo divide el texto en piezas y por qué importa el conteo.

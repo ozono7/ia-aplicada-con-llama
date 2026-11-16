@@ -1,5 +1,7 @@
 # Clase 2 — Prompt Engineering y sistemas RAG
 
+[Ver esta carpeta en nbviewer](https://nbviewer.org/github/ozono7/ia-aplicada-con-llama/tree/main/clase-2)
+
 ## Qué se aprende
 
 - **Zero-shot vs. few-shot:** pedir una tarea sin ejemplos, o con ejemplos que muestran el formato esperado.

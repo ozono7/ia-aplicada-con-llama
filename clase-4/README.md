@@ -1,5 +1,7 @@
 # Clase 4 — Pipeline completo: de datos a modelo desplegado
 
+[Ver esta carpeta en nbviewer](https://nbviewer.org/github/ozono7/ia-aplicada-con-llama/tree/main/clase-4)
+
 ## Qué se aprende
 
 Esta clase une en un solo flujo lo visto en las tres anteriores:

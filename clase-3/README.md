@@ -1,5 +1,7 @@
 # Clase 3 — Fine-tuning con LoRA
 
+[Ver esta carpeta en nbviewer](https://nbviewer.org/github/ozono7/ia-aplicada-con-llama/tree/main/clase-3)
+
 ## Qué se aprende
 
 - **Línea base:** medir cómo responde el modelo base antes de afinarlo, para poder comparar después.
