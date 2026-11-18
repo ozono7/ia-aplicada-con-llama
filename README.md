@@ -103,10 +103,6 @@ solo en Colab Secrets, nunca en el código ni en el repositorio. El archivo
 - **Clase 1 — Proyecto: Pon en práctica lo aprendido.** Recurso visual sobre lo
   aprendido (dibujos, mapa mental, colores) + link al recurso digital o fotos de
   los apuntes. El recurso visual es el mapa mental de arriba.
-- **Clases 1–4 — Challenges.** Comparador de modelos Llama (Clase 1),
-  asistente de políticas con RAG (Clase 2), ajuste de tono con LoRA (Clase 3)
-  y pipeline completo (Clase 4).
-- **Hackathon 1.** Asistente inteligente con Llama (ejemplo completo: Asistente
-  de Biblioteca con RAG y TinyLlama).
-- **Módulo 2.** Agente conversacional con Llama 3.1 + WhatsApp (memoria por
-  usuario, function calling, webhook con FastAPI y ngrok).
+- **Clases 1–4 — Challenges.** Comparador de modelos Llama ([clase-1/m1-c1-estatus-pedidos.ipynb](clase-1/m1-c1-estatus-pedidos.ipynb)), asistente de políticas con RAG ([clase-2/m1-c2-politicas-rag.ipynb](clase-2/m1-c2-politicas-rag.ipynb)), ajuste de tono con LoRA ([clase-3/m1-c3-tono-lora.ipynb](clase-3/m1-c3-tono-lora.ipynb)) y pipeline completo (Clase 4).
+- **Hackathon 1.** Asistente inteligente con Llama: asistente RAG del laboratorio de microalgas ([hackathon-1/m1-hackathon1-asistente.ipynb](hackathon-1/m1-hackathon1-asistente.ipynb)).
+- **Módulo 2.** Agente conversacional con Llama 3.1 + WhatsApp (memoria por usuario, function calling, webhook con FastAPI y ngrok): Challenge 1 ([modulo-2-whatsapp/m2-c1-estatus-pedidos-whatsapp.ipynb](modulo-2-whatsapp/m2-c1-estatus-pedidos-whatsapp.ipynb)), Challenge 2 ([modulo-2-whatsapp/m2-c2-agente-veterinaria.ipynb](modulo-2-whatsapp/m2-c2-agente-veterinaria.ipynb)), Challenge 3 ([modulo-2-whatsapp/m2-c3-atencion-pedidos.ipynb](modulo-2-whatsapp/m2-c3-atencion-pedidos.ipynb)) y Hackathon 2 ([modulo-2-whatsapp/m2-hackathon2-agente-whatsapp.ipynb](modulo-2-whatsapp/m2-hackathon2-agente-whatsapp.ipynb)).

@@ -21,5 +21,6 @@ carga de TinyLlama y base de conocimiento.
 - `Hackathon1_TinyLlama_Asistente_Inteligente_Ejemplo_Completo_ENTREGABLE.ipynb` — ejemplo completo de entrega. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/hackathon-1/Hackathon1_TinyLlama_Asistente_Inteligente_Ejemplo_Completo_ENTREGABLE.ipynb)
 - `chatbot_libreria.ipynb` — Sesión 05, chatbot con modelo de lenguaje y RAG. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/hackathon-1/chatbot_libreria.ipynb)
 - `Practica_04: Pipeline_Completo.ipynb` — Sesión 05, pipeline completo. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/hackathon-1/Practica_04%3A%20Pipeline_Completo.ipynb)
+- `m1-hackathon1-asistente.ipynb` — Hackathon 1 resuelto: asistente RAG del laboratorio de microalgas (TinyLlama + paraphrase-multilingual-MiniLM-L12-v2) sobre el protocolo de cultivo, con casos de prueba y evaluación con criterios explícitos. · [Abrir en Colab](https://colab.research.google.com/github/ozono7/ia-aplicada-con-llama/blob/main/hackathon-1/m1-hackathon1-asistente.ipynb)
 
 La guía de los hackathones está en el material de apoyo (Drive).
